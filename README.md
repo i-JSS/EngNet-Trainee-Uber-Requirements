@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="docs/assets/banner2.png" alt="2Getters" width="80%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engenharia_de_Requisitos-4A90D9?style=for-the-badge" />

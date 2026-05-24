@@ -1,7 +1,3 @@
-<a href="">
-  <img src="assets/banner2.png" alt="2GETTERS">
-</a>
-
 * **Overview**
     * [2Getters](/)
 * **Pré-Rastreabilidade**
